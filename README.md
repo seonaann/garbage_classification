@@ -79,7 +79,7 @@ The model performs exceptionally well on all classes except "trash", which is un
 
 ## 🚀 Live Demo Preview
 
-![Hugging Face Demo](./hf_demo.png)
+![Hugging Face Demo](https://github.com/seonaann/garbage_classification/blob/main/hf_demo.png.png)
 
 👉 Try the live app here: [Hugging Face Space](https://huggingface.co/spaces/seonaann/garbage-classifier)
 
